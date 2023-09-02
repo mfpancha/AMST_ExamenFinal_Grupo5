@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "203625535359",
+    "firebase_url": "https://amst-eva2-g5-default-rtdb.firebaseio.com",
+    "project_id": "amst-eva2-g5",
+    "storage_bucket": "amst-eva2-g5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203625535359:android:cd7aff70ed5478cf5aac4a",
+        "android_client_info": {
+          "package_name": "com.amst.amst_eva2_g5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203625535359-u2tfhtveurlpjsb01j9fml0m4c4fhp44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amst.amst_eva2_g5",
+            "certificate_hash": "dc3ed30f0092a534cc38b9e2ca1bb74363973156"
+          }
+        },
+        {
+          "client_id": "203625535359-oqh94i3r93io35bm1c6k8dnse2o0rk44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaB-x-Q2j8RVi-3bXwICl12KzjPLLGYAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203625535359-oqh94i3r93io35bm1c6k8dnse2o0rk44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

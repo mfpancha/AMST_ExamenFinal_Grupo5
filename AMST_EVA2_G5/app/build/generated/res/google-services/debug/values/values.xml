@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">203625535359-oqh94i3r93io35bm1c6k8dnse2o0rk44.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://amst-eva2-g5-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">203625535359</string>
+    <string name="google_api_key" translatable="false">AIzaSyAaB-x-Q2j8RVi-3bXwICl12KzjPLLGYAM</string>
+    <string name="google_app_id" translatable="false">1:203625535359:android:cd7aff70ed5478cf5aac4a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAaB-x-Q2j8RVi-3bXwICl12KzjPLLGYAM</string>
+    <string name="google_storage_bucket" translatable="false">amst-eva2-g5.appspot.com</string>
+    <string name="project_id" translatable="false">amst-eva2-g5</string>
+</resources>
